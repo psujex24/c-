@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715891744 source:c:\users\kubap\onedrive\pulpit\c++\kalendarz\main.cpp
+	<iostream>
+	<cstdlib>
+

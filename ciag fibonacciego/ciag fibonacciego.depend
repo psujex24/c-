@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715888877 source:c:\users\kubap\onedrive\pulpit\c++\ciag fibonacciego\main.cpp
+	<iostream>
+	<iomanip>
+
